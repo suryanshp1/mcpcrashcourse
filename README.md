@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/suryanshp1-mcpcrashcourse-badge.png)](https://mseep.ai/app/suryanshp1-mcpcrashcourse)
+
 A simple demo of MCP python sdk.
 
 ## MCP Crash Course
