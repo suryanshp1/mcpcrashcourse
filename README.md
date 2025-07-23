@@ -1,7 +1,10 @@
+# MCP Crash Course
+
 A simple demo of MCP python sdk.
 
-## MCP Crash Course
-
+<a href="https://glama.ai/mcp/servers/@suryanshp1/mcpcrashcourse">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@suryanshp1/mcpcrashcourse/badge" alt="Weather Server MCP server" />
+</a>
 
 ## uv commands
 
