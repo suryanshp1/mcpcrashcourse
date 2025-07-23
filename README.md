@@ -2,6 +2,8 @@
 
 A simple demo of MCP python sdk.
 
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/suryanshp1-mcpcrashcourse-badge.png)](https://mseep.ai/app/suryanshp1-mcpcrashcourse)
+
 <a href="https://glama.ai/mcp/servers/@suryanshp1/mcpcrashcourse">
   <img width="380" height="200" src="https://glama.ai/mcp/servers/@suryanshp1/mcpcrashcourse/badge" alt="Weather Server MCP server" />
 </a>
